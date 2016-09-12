@@ -9,6 +9,8 @@ namespace lifequote
     class dob
     {
         static void Main(string[] args)
-        { }
+        {
+            ASCIIEncoding
+        }
     }
 }
